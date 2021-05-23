@@ -1,7 +1,5 @@
 # React Native Instagram Clone
-Instagram mobile app clone using React Native. I will add Activity screen and Add Pot screen in the future.
-
-[![Build Status](https://travis-ci.com/1hbb/react-native-instagram-clone.svg?branch=master)](https://github.com/santosharron/instagram-clone)
+Instagram mobile app clone using React Native. Working on Instagram 2.0
 
 <table>
   <tr>
@@ -20,7 +18,7 @@ Instagram mobile app clone using React Native. I will add Activity screen and Ad
 
 <br />
 
-### Installation
+## Installation
 
 1. Clone the repo
    ```sh
