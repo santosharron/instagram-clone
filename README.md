@@ -19,21 +19,38 @@ Instagram mobile app clone using React Native. I will add Activity screen and Ad
   <tr>
 </table>
 
-## How to use
-- `cd Instagram`
-- `npm install`
-- `yarn install`
-- `cd ios`
-- `pod install` 
-- `cd ..`
-- `react-native run-ios` or `react-native run-android`
+<br />
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/santosharron/3D-car-model.git
+   git clone https://github.com/santosharron/instagram-clone.git
    ```
-2. Start Running Using Live Server!
+2. Open Folder
+   ```sh
+   `cd Instagram`
+   ```
+3. Install Dependencies
+   ```sh
+   `npm install`
+   `yarn install`
+   ```
+4. For (IOS Locate Ios Folder)
+   ```sh
+   `cd ios`
+   ```
+5. Then, retrieve the pods for the project
+   ```sh
+   `pod install`
+   ```
+6. Get Back
+   ```sh
+   `cd ..`
+   ```
+7. Run
+   ```sh
+   `react-native run-ios` or `react-native run-android`
+   ```
 
 ## License
 
