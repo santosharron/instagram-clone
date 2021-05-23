@@ -45,7 +45,8 @@ Instagram mobile app clone using React Native. Working on Instagram 2.0
    ```sh
    react-native run-ios
    ```
-##or
+   
+   or
 
    ```sh
    react-native run-android
