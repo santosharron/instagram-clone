@@ -22,28 +22,28 @@ Instagram mobile app clone using React Native. Working on Instagram 2.0
    ```
 2. Open Folder
    ```sh
-   `cd Instagram`
+   cd Instagram
    ```
 3. Install Dependencies
    ```sh
-   `npm install`
-   `yarn install`
+   npm install
+   yarn install
    ```
 4. For (IOS Locate Ios Folder)
    ```sh
-   `cd ios`
+   cd ios
    ```
 5. Then, retrieve the pods for the project
    ```sh
-   `pod install`
+   pod install
    ```
 6. Get Back
    ```sh
-   `cd ..`
+   cd ..
    ```
 7. Run
    ```sh
-   `react-native run-ios` or `react-native run-android`
+   react-native run-ios` or `react-native run-android
    ```
 
 ## License
